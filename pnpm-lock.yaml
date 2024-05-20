@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       zod:
-        specifier: ^3.23.8
+        specifier: ^3.23.5
         version: 3.23.8
     devDependencies:
       '@sveltejs/adapter-auto':
@@ -31,7 +31,7 @@ importers:
         specifier: ^2.13.1
         version: 2.13.1(@sveltejs/kit@2.5.9(@sveltejs/vite-plugin-svelte@3.1.0(svelte@4.2.17)(vite@5.2.11))(svelte@4.2.17)(vite@5.2.11))(@types/json-schema@7.0.15)(esbuild-runner@2.2.2(esbuild@0.20.2))(esbuild@0.20.2)(svelte@4.2.17)
       typescript:
-        specifier: ^5.0.0
+        specifier: ^5.4.5
         version: 5.4.5
       vite:
         specifier: ^5.0.3
